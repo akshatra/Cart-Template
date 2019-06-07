@@ -1,5 +1,5 @@
-# Cart-Template
-Redux-React handled events and state to make a responsive cart template.
+# Song List
+Redux-React handled events and state to make a responsive List of songs clicking on any of the listed songs will render the details of the song onto the scree. 
 
 The moment you click on the button the details of corresponding song will be shown on the screen.
 ## To Run this application you need to install create-react-app utility.
