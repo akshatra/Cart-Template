@@ -10,3 +10,5 @@ STEP2:  Delete the content of the src folder and paste the files inside this rep
 STEP3:  In the public/index.html paste this link: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css"/>
 
 STEP4:  Open in terminal the directory in which the app has been installed and type npm start.
+
+![Capture](https://user-images.githubusercontent.com/47113617/59111245-44759b00-895e-11e9-982f-0672582d1517.JPG)
